@@ -5,3 +5,4 @@ Welcome to the Open Research Calendar, an automated :robot: open-source communit
 #### [Website](https://openresearchcalendar.org/)
 #### [Twitter](https://twitter.com/OpenResearchCal)
 #### [Repository](https://github.com/openresearchcalendar/openresearchcalendar.github.io)
+#### [Newsletter](https://openresearchcalendar.org/email-subscribe/)
